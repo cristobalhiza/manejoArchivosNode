@@ -164,23 +164,27 @@ let heroes = [
     }
 ];
 
-fs.writeFileSync(rutaArchivo, JSON.stringify(heroes, null, "\t" )) 
 
-let lecturaHeroes=fs.readFileSync(rutaArchivo, {encoding: "utf-8"})
-console.log(lecturaHeroes)
-console.log(typeof(lecturaHeroes))
-console.log(heroes)
-console.log(typeof(heroes))
+// fs.writeFileSync(rutaArchivo, JSON.stringify(heroes, null, "\t" )) 
 
+// let lecturaHeroes=fs.readFileSync(rutaArchivo, {encoding: "utf-8"})
+// console.log(lecturaHeroes)
+// console.log(typeof(lecturaHeroes))
+// console.log(heroes[0].alias)
 
+// fs.writeFileSync(rutaArchivo, JSON.stringify(heroes, ["alias", "id", "team"], 5))
+// // ESTO ÚLTIMO NO ES BUENA PRÁCTICA, ES MEJOR USAR UN METODO QUE SEA MÁS NOTORIO
+// ES MEJOR USAR POR EJEMPLO:
 
+let idNuevo=9000
+const modifica =(propiedad, valor)=>{
+    if(propiedad=="name"){
+        return valor.toUpperCase()
+    }
+    if(propiedad=="id"){
+        return valor + 1000
+    }
+    return valor
+}
+fs.writeFileSync(rutaArchivo, JSON.stringify(heroes, modifica, "\t"))
 
-
-
-
-
-// fs.writeFileSync(rutaArchivo, JSON.stringify(heroes, null, 5))
-// let lecturaDatos=JSON.parse(fs.readFileSync(rutaArchivo, {encoding:"utf-8"}))
-// console.log(lecturaDatos, typeof lecturaDatos, typeof heroes)
-// console.log(heroes[0].name)
-// console.log(lecturaDatos[0].name)

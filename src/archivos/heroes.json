@@ -1,7 +1,7 @@
 [
 	{
-		"id": 1,
-		"name": "Spider-Man",
+		"id": 9001,
+		"name": "SPIDER-MAN",
 		"alias": "Peter Parker",
 		"powers": [
 			"Wall-crawling",
@@ -12,8 +12,8 @@
 		"publisher": "Marvel"
 	},
 	{
-		"id": 2,
-		"name": "Superman",
+		"id": 9002,
+		"name": "SUPERMAN",
 		"alias": "Clark Kent",
 		"powers": [
 			"Superhuman strength",
@@ -24,8 +24,8 @@
 		"publisher": "DC"
 	},
 	{
-		"id": 3,
-		"name": "Iron Man",
+		"id": 9003,
+		"name": "IRON MAN",
 		"alias": "Tony Stark",
 		"powers": [
 			"Powered armor",
@@ -36,8 +36,8 @@
 		"publisher": "Marvel"
 	},
 	{
-		"id": 4,
-		"name": "Wonder Woman",
+		"id": 9004,
+		"name": "WONDER WOMAN",
 		"alias": "Diana Prince",
 		"powers": [
 			"Superhuman strength",
@@ -48,8 +48,8 @@
 		"publisher": "DC"
 	},
 	{
-		"id": 5,
-		"name": "Black Widow",
+		"id": 9005,
+		"name": "BLACK WIDOW",
 		"alias": "Natasha Romanoff",
 		"powers": [
 			"Expert spy",
@@ -60,8 +60,8 @@
 		"publisher": "Marvel"
 	},
 	{
-		"id": 6,
-		"name": "Batman",
+		"id": 9006,
+		"name": "BATMAN",
 		"alias": "Bruce Wayne",
 		"powers": [
 			"Intelligence",
@@ -72,8 +72,8 @@
 		"publisher": "DC"
 	},
 	{
-		"id": 7,
-		"name": "Aquaman",
+		"id": 9007,
+		"name": "AQUAMAN",
 		"alias": "Arthur Curry",
 		"powers": [
 			"Superhuman strength",
@@ -84,8 +84,8 @@
 		"publisher": "DC"
 	},
 	{
-		"id": 8,
-		"name": "Captain America",
+		"id": 9008,
+		"name": "CAPTAIN AMERICA",
 		"alias": "Steve Rogers",
 		"powers": [
 			"Superhuman strength",
@@ -96,8 +96,8 @@
 		"publisher": "Marvel"
 	},
 	{
-		"id": 9,
-		"name": "Flash",
+		"id": 9009,
+		"name": "FLASH",
 		"alias": "Barry Allen",
 		"powers": [
 			"Super speed",
@@ -108,8 +108,8 @@
 		"publisher": "DC"
 	},
 	{
-		"id": 10,
-		"name": "Black Panther",
+		"id": 9010,
+		"name": "BLACK PANTHER",
 		"alias": "T'Challa",
 		"powers": [
 			"Enhanced senses",
@@ -120,8 +120,8 @@
 		"publisher": "Marvel"
 	},
 	{
-		"id": 11,
-		"name": "Green Lantern",
+		"id": 9011,
+		"name": "GREEN LANTERN",
 		"alias": "Hal Jordan",
 		"powers": [
 			"Ring-generated constructs",
@@ -132,8 +132,8 @@
 		"publisher": "DC"
 	},
 	{
-		"id": 12,
-		"name": "Thor",
+		"id": 9012,
+		"name": "THOR",
 		"alias": "Thor Odinson",
 		"powers": [
 			"Mjolnir (hammer)",
@@ -144,8 +144,8 @@
 		"publisher": "Marvel"
 	},
 	{
-		"id": 13,
-		"name": "Batwoman",
+		"id": 9013,
+		"name": "BATWOMAN",
 		"alias": "Kate Kane",
 		"powers": [
 			"Martial arts",
@@ -156,8 +156,8 @@
 		"publisher": "DC"
 	},
 	{
-		"id": 14,
-		"name": "Hulk",
+		"id": 9014,
+		"name": "HULK",
 		"alias": "Bruce Banner",
 		"powers": [
 			"Superhuman strength",
@@ -168,8 +168,8 @@
 		"publisher": "Marvel"
 	},
 	{
-		"id": 15,
-		"name": "Zatanna",
+		"id": 9015,
+		"name": "ZATANNA",
 		"alias": "Zatanna Zatara",
 		"powers": [
 			"Magic spells",
@@ -180,8 +180,8 @@
 		"publisher": "DC"
 	},
 	{
-		"id": 16,
-		"name": "Doctor Strange",
+		"id": 9016,
+		"name": "DOCTOR STRANGE",
 		"alias": "Stephen Strange",
 		"powers": [
 			"Mystic arts",
@@ -192,8 +192,8 @@
 		"publisher": "Marvel"
 	},
 	{
-		"id": 17,
-		"name": "Green Arrow",
+		"id": 9017,
+		"name": "GREEN ARROW",
 		"alias": "Oliver Queen",
 		"powers": [
 			"Archery skills",
@@ -204,8 +204,8 @@
 		"publisher": "DC"
 	},
 	{
-		"id": 18,
-		"name": "Scarlet Witch",
+		"id": 9018,
+		"name": "SCARLET WITCH",
 		"alias": "Wanda Maximoff",
 		"powers": [
 			"Reality manipulation",
@@ -216,8 +216,8 @@
 		"publisher": "Marvel"
 	},
 	{
-		"id": 19,
-		"name": "Martian Manhunter",
+		"id": 9019,
+		"name": "MARTIAN MANHUNTER",
 		"alias": "J'onn J'onzz",
 		"powers": [
 			"Shape-shifting",
@@ -228,8 +228,8 @@
 		"publisher": "DC"
 	},
 	{
-		"id": 20,
-		"name": "Deadpool",
+		"id": 9020,
+		"name": "DEADPOOL",
 		"alias": "Wade Wilson",
 		"powers": [
 			"Regenerative healing",
